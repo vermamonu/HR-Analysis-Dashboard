@@ -1,7 +1,50 @@
-# HR-Analysis-Dashboard
+# HR Analytics Dashboard
 
-The HR Analytics Dashboard project is a powerful tool designed to provide comprehensive insights into HR data, enabling organizations to make data-driven decisions and optimize their human resources strategies. Developed using Power BI and MySQL, this project combines data visualization and advanced analytics techniques to unlock valuable information from HR datasets.
+## Overview
+This **HR Analytics Dashboard** provides a comprehensive view of key HR metrics, helping organizations track employee attrition trends, salary distributions, and demographic breakdowns. Built with a focus on visual clarity, the dashboard offers insights to drive data-driven decision-making in HR strategies.
 
-Key Features Data Integration and Transformation Integrates HR data from various sources. Ensures accuracy and consistency through data transformation and cleansing. Employee Performance Analysis Offers in-depth analysis of employee performance metrics. Enables identification of top performers and informed decision-making. Workforce Planning and Analytics Provides insights into workforce demographics. Helps HR departments effectively plan recruitment and diversity initiatives. Absence and Leave Management Allows monitoring and analysis of absence and leave patterns. Identifies trends and potential areas for improvement in leave policies. Recruitment and Talent Acquisition Analyzes recruitment data to streamline hiring processes. Improves talent acquisition strategy and reduces time-to-hire. Training and Development Provides insights into training program effectiveness. Identifies skills gaps and optimizes training initiatives. Technologies Used The HR Analytics Dashboard project utilizes Power BI as the primary data visualization and analytics tool. It connects to a MySQL database to retrieve and store HR data securely. Power BI's intuitive interface and interactive visualizations empower users to explore data, drill down into specific metrics, and generate actionable insights.
+## Key Metrics Displayed
+**Total Employees:** 1,470
 
-Usage The HR Analytics Dashboard is designed to be user-friendly and accessible to HR professionals, managers, and executives. It serves as a valuable resource for strategic decision-making, enabling stakeholders to understand the workforce, identify trends, and align HR initiatives with organizational goals.
+**Attrition Count:** 237
+
+**Attrition Rate:** 16.1%
+
+**Average Age:** 37 years
+
+**Average Salary:** $6.5K
+
+**Average Years at Company:** 7 years
+
+## Visualizations
+**Attrition by Education:** Breakdown by fields such as Life Sciences, Medical, Technical Degree, and Marketing.
+
+**Attrition by Age Group:** Analysis across different age groups (18–25, 26–35, 36–45, etc.).
+
+**Attrition by Salary Slab:** Categories such as Up to $5K, $5K–$10K, and more.
+
+**Attrition by Gender:** Comparison between male and female attrition.
+
+**Attrition by Years at Work:** Trend over years of service.
+
+**Attrition by Job Role:** Detailed by various job functions such as Laboratory Technician, Sales Executive, and Research Scientist.
+
+**Attrition by Department:** Sales, Research & Development, and Human Resources.
+
+## Tools Used
+**Power BI:** Dashboard creation and visualization
+
+**Excel:** Data cleaning and preparation
+
+**SQL:** Data extraction and querying
+
+## Insights and Purpose
+This dashboard helps HR teams:
+
+Identify the highest attrition risk areas.
+
+Understand salary-related attrition trends.
+
+Focus retention efforts by job role, gender, and department.
+
+Make data-backed decisions for workforce planning.
